@@ -1,4 +1,4 @@
-Website to advertise and represent a children's book author. Features gallery of cards that contain a character and their description. Gallery scrolls from right to left on its own every 3 seconds, 
+Website to advertise and represent a children's book author and their books. Features gallery of cards that contain a character and their description. Gallery scrolls from right to left on its own every 3 seconds, 
 and can be manually moved with arrow buttons. Functional on all screen sizes, and features collapsable text fields for mobile interfaces.
 <br>
 <img width="1879" alt="desktopIndex" src="https://github.com/mixalissan/Author-website/assets/93053477/0f3d04e5-e6eb-47c1-8385-d115a766af17">
